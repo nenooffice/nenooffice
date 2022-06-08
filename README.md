@@ -15,14 +15,14 @@
 <p align="left">
   
 * Projetos/Projects/Projekte
-* Bancada de Ideias
-* Sketchs
+* Meu cantinho/My stuff/Mein kleinen Ecke
+* Rascunhos/Sketchs/Skizze
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Sobre mim
 
-Olá! Perdão pelo drama. Você pode me chamar de Neno, e eu sou um Desenvolvedor em formação (como sempre serei). Na realidade, você pode ver as linguagens que estou programando *agora* no canto inferiior dessa introdução, assim como minhas redes sociais! Além disso, acima dessa pequena introdução, confira o último projeto que estou trabalhando! Então, tome seu tempo e se diverta! Caso queira entrar em contato comigo, me mande uma DM no Twitter ou um email! (E sim, eu sei que gramaticalmente falando, a frase "No One is Here"  está errada, mas quem sabe? Talvez algo se esconda por trás disso...)
+Olá! Perdão pelo drama. Você pode me chamar de Neno, e eu sou um Desenvolvedor em formação (como sempre serei). Na realidade, você pode ver as linguagens que estou programando *agora* no canto inferior dessa introdução, assim como minhas redes sociais! Além disso, acima dessa pequena introdução, confira o último projeto que estou trabalhando! Então, tome seu tempo e se diverta! Caso queira entrar em contato comigo, me mande uma DM no Twitter ou um email! (E sim, eu sei que gramaticalmente falando, a frase "No One is Here"  está errada, mas quem sabe? Talvez algo se esconda por trás disso...)
 
 
 ## About me
